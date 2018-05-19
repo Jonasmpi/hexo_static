@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://h2281797.stratoserver.net/"/>
-  <updated>2018-05-15T17:20:57.400Z</updated>
+  <updated>2018-05-19T21:51:51.928Z</updated>
   <id>http://h2281797.stratoserver.net/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Viesmann Techathon 2018 - Wir holen Platz 2</title>
+    <link href="http://h2281797.stratoserver.net/2018/05/19/viessmann-techathon/"/>
+    <id>http://h2281797.stratoserver.net/2018/05/19/viessmann-techathon/</id>
+    <published>2018-05-18T22:00:00.000Z</published>
+    <updated>2018-05-19T21:51:51.928Z</updated>
+    
+    <content type="html"><![CDATA[<p>Im Mai konnten wir als Team bei Viessmann in Allerndorf direkt auf dem Werksgelände bei dem<br>zwei tägigen Hackathon unsere Fähigkeiten in Wettbewerbsatmosphäre unter Beweis stellen.<br><img src="/images/2018/viessmann_siegerehrung.jpg" alt="/images/2018/viessmann_siegerehrung.jpg"><br><a id="more"></a></p><p>Nach einer langen Autofahrt erreichten wir pünktlich am Freitag Nachmittag das Viessmann Werk. Dort angekommen wurden wir nach einer ausgiebigen Mittagessen und einem Briefing unseren weiteren Teammitgliedern vorgestellt. Wir liesen keine Zeit verstreichen und machten es uns nach einer kurzen Führung direkt im Technikum, dem Prototypenlabor, an die Arbeit.<br>Mit Hilfe der Mitarbeiter des Technikums und der amerikanischen Kollegen schraubten unsere Teammitglieder fleißig zwei Tage an der Hardware Umsetzung, während wir uns mit Freude an die Softwarekonzipierung und Implementierung stürzten.<br>Am Sonntag wurde unsere Arbeit und Konzept dann mit einem schönen zweiten Platz belohnt.<br><img src="/images/2018/viessmann_teamwork.jpg" alt="/images/2018/viessmann_teamwork.jpg"></p><p>Für uns war es also wie immer ein senationelles Wochenende, bestehend aus Code,Hacking, interdisziplinärer Zusammenarbeit und einem Einblick in die Welt der Heiztechnik.<br>An dieser Stelle ein großes Danke an die Firma Viessmann für ihre Unterstützung, ihr Vertrauen und einen reibungslosen Ablauf eines gelungenen Events </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Im Mai konnten wir als Team bei Viessmann in Allerndorf direkt auf dem Werksgelände bei dem&lt;br&gt;zwei tägigen Hackathon unsere Fähigkeiten in Wettbewerbsatmosphäre unter Beweis stellen.&lt;br&gt;&lt;img src=&quot;/images/2018/viessmann_siegerehrung.jpg&quot; alt=&quot;/images/2018/viessmann_siegerehrung.jpg&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Hackathon" scheme="http://h2281797.stratoserver.net/tags/Hackathon/"/>
+    
+      <category term="Viessmann" scheme="http://h2281797.stratoserver.net/tags/Viessmann/"/>
+    
+      <category term="Inverse Camelcase" scheme="http://h2281797.stratoserver.net/tags/Inverse-Camelcase/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://h2281797.stratoserver.net/2018/05/17/hello-world/"/>
+    <id>http://h2281797.stratoserver.net/2018/05/17/hello-world/</id>
+    <published>2018-05-16T22:10:22.934Z</published>
+    <updated>2017-12-18T02:58:09.415Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>GlobalGameJam2018 - Transmission Camelcase</title>
@@ -62,27 +107,6 @@
     
     
       <category term="-test -Blog" scheme="http://h2281797.stratoserver.net/tags/test-Blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://h2281797.stratoserver.net/2017/12/18/hello-world/"/>
-    <id>http://h2281797.stratoserver.net/2017/12/18/hello-world/</id>
-    <published>2017-12-18T02:58:09.415Z</published>
-    <updated>2017-12-18T02:58:09.415Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
     
   </entry>
   
